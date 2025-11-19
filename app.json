@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "insumo1ap2",
-    "slug": "insumo1ap2",
+    "name": "react-native-subject",
+    "slug": "react-native-subject",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "insumo1ap2",
+    "scheme": "reactnativesubject",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
